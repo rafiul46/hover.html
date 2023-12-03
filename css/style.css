@@ -1,0 +1,32 @@
+.rafis ul {
+
+    list-style: none;
+
+}
+
+.rafis li{
+
+    display: inline-block;
+    margin: 20px;
+    
+}
+
+.rafis ul li a{
+
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 6px;
+    font-size: 60px;
+    background-color: #000;
+
+
+}
+
+.rafis ul li a:hover{
+
+    color: blue;
+    background-color: burlywood;
+    transition: 0.7s ;
+
+
+}
